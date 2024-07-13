@@ -75,6 +75,7 @@ Here's the code for the last row of images above:
   <div class="col-sm-4 mt-3 mt-md-0">
     {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
   </div>
+  <a data-flickr-embed="true" href="https://www.flickr.com/photos/199613748@N02" title=""><img src="https://live.staticflickr.com/65535/53836161372_78eddebf25_h.jpg" width="1200" height="1600" alt=""/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 ```
 
