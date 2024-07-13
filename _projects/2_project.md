@@ -2,10 +2,10 @@
 layout: page
 title: Wildlife
 description: Northeastern Maryland, Virgnia, and Delware or DelMarva wildlife
-img: assets/img/larpa.jpg
+img: assets/img/larpa.jpg 
 importance: 2
 category: work
-giscus_comments: true
+giscus_comments: FALSE
 ---
 
 Every project has a beautiful feature showcase page.
@@ -24,12 +24,6 @@ To give your project a background in the portfolio page, just add the img tag to
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tort.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
