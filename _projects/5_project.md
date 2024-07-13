@@ -19,7 +19,11 @@ category: fun
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Venture X catch all with 2x points back on everything, also for travel when it makes sense 5x Flights, 10x hotel and rental car.
+
+    Discover 5x rotating used most for restaruant, gas station, and grocery store when those categories rotate in.
+
+    Citi 5x custom cash used exclusivly for restuarants once 500 threashold is reached I do not use the card until the next billing statement.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
