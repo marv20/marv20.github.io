@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Birds
-description: with background image
-img: assets/img/12.jpg
+description: Northeastern Maryland, Virgnia, and Delware or DelMarva birds
+img: assets/img/card.jpg
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Every project has a beautiful feature showcase page.
