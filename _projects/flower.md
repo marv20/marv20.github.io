@@ -3,22 +3,24 @@ layout: page
 title: Flowers
 description: with background image
 img: assets/img/t1.jpg
+height: 
 importance: 1
 category: fun
 related_publications: true
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/b1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0" style="position: relative; width: 100%; height: 200px; overflow: hidden;">
+        {% include figure.liquid loading="eager" path="assets/img/b1.jpg" title="example image" class="img-fluid rounded z-depth-1" style="position: absolute; top: 50%; left: 50%; height: 100%; width: 100%; object-fit: cover; transform: translate(-50%, -50%);" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/b2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0" style="position: relative; width: 100%; height: 200px; overflow: hidden;">
+        {% include figure.liquid loading="eager" path="assets/img/b2.jpg" title="example image" class="img-fluid rounded z-depth-1" style="position: absolute; top: 50%; left: 50%; height: 100%; width: 100%; object-fit: cover; transform: translate(-50%, -50%);" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/b3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0" style="position: relative; width: 100%; height: 200px; overflow: hidden;">
+        {% include figure.liquid loading="eager" path="assets/img/b3.jpg" title="example image" class="img-fluid rounded z-depth-1" style="position: absolute; top: 50%; left: 50%; height: 100%; width: 100%; object-fit: cover; transform: translate(-50%, -50%);" %}
     </div>
 </div>
+
 <div class="caption">
     Cherry Blossom Sunrise 2024 from the Tidal Basin Washington, DC
 </div>
