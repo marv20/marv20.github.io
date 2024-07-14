@@ -5,7 +5,7 @@ description: Happy New Year
 img: assets/img/nyc.jpg
 redirect: https://www.flickr.com/photos/199613748@N02/shares/G1Qo40SK8B
 importance: 3
-category: fun
+category: Portfolio
 ---
 
 Every project has a beautiful feature showcase page.

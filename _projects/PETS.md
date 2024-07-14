@@ -4,7 +4,7 @@ title: Pets
 description: 
 img: assets/img/1.jpg
 importance: 3
-category: fun
+category: Portfolio
 ---
 
 <div class="row">

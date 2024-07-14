@@ -4,7 +4,7 @@ title: Long Exposure
 description: Waiting on the world to change
 img: assets/img/le5.jpg
 importance: 1
-category: fun
+category: Portfolio
 ---
 
 

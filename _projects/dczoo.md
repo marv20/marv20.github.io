@@ -6,7 +6,7 @@ description: Pandas MIA
 img: assets/img/ZOO.jpg
 redirect: https://www.flickr.com/photos/199613748@N02/shares/rGLT91Lgxb
 importance: 3
-category: fun
+category: Portfolio
 ---
 
 Every project has a beautiful feature showcase page.

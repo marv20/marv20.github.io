@@ -4,7 +4,7 @@ title: Landscape
 description: 
 img: assets/img/l0.jpg
 importance: 2
-category: fun
+category: Portfolio
 giscus_comments: false
 ---
 

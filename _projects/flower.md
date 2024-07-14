@@ -4,7 +4,7 @@ title: Flowers
 description: with background image
 img: assets/img/t1.jpg
 importance: 1
-category: fun
+category: Portfolio
 related_publications: true
 ---
 

@@ -5,7 +5,7 @@ description: Midnight Train to Georgia
 img: assets/img/GA.jpg
 redirect: https://www.flickr.com/photos/199613748@N02/shares/6qJw0bRdm1
 importance: 3
-category: fun
+category: Portfolio
 ---
 
 Every project has a beautiful feature showcase page.
