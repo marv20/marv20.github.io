@@ -20,6 +20,7 @@
   "work": [
     {
       "name": "Capital One",
+      "location": "McLean, VA",
       "position": "Data Privacy Software Engineer",
       "url": "",
       "startDate": "2022-08-01",
@@ -63,53 +64,55 @@
       "name": "Solutions Architect - Associate",
       "date": "2018-01-01",
       "issuer": "AWS",
-      "url": "https://example.com",
+      "url": "",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "A+",
       "date": "2018-01-01",
       "issuer": "CompTIA",
-      "url": "https://example.com",
+      "url": "",
       "icon": "fa-solid fa-clipboard-check"
     },
     {
       "name": "Network+",
       "date": "2018-01-01",
       "issuer": "CompTIA",
-      "url": "https://example.com",
+      "url": "",
       "icon": "fa-solid fa-clipboard-check"
     }
   ],
   "publications": [],
-  "skills": [
+  "languages": [],
+  "coding": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Coding Languages",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
-  ],
-  "languages": [],
-  "interests": [
+        "Java (intermediate)",
+        "Python (proficient)",
+        "JavaScript (proficient)",
+        "TypeScript (proficient)",
+        "Angular (proficient)",
+        "React (proficient)",
+        "SQL (proficient)",
+        "Ocaml (proficient)",
+        "C (proficient)"
+        ]
+    },
     {
-      "name": "Physics",
-      "icon": "fa-solid fa-tag",
+      "name": "Tools/Frameworks",
+      "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+        "AWS Cloud",
+        "Apache Airflow",
+        "Jenkins",
+        "GraphQL",
+        "Node.js",
+        "Jest",
+        "Pandas",
+        "Kivy"
+        ]
     }
   ],
   "references": [],
