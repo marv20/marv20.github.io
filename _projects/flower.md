@@ -59,6 +59,13 @@ You can also put regular text
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/b3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
+        <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/bee.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    </div>
+        <div class="col-sm-4 mt-3 mt-md-0">
+        {% include figure.liquid path="assets/img/mag.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 </div>
 <div class="caption">
     You can also have artistically styled 2/3 + 1/3 images, like these.
