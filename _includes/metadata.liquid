@@ -124,6 +124,10 @@
     {% capture link %}https://www.linkedin.com/in/{{ site.linkedin_username }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
   {% endif %}
+  {% if site.instagram_id %}
+    {% capture link %}https://instagram.com/{{ site.instagram_id }}{% endcapture %}
+    {% assign sameaslinks = sameaslinks | push: link %}
+  {% endif %}
   {% if site.x_username %}
     {% capture link %}https://twitter.com/{{ site.x_username }}{% endcapture %}
     {% assign sameaslinks = sameaslinks | push: link %}
