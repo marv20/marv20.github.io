@@ -30,14 +30,16 @@
   ],
   "volunteer": [
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "organization": "CODEPATH",
+      "location": "",
+      "position": "Volunteer",
+      "url": "https://www.codepath.org/",
+      "startDate": "2023-02-01",
+      "endDate": "",
+      "summary":"",
+      "highlights": ["Guided and mentored underrepresented students in technology, providing one-on-one advice, feedback, and encouragement.",
+      "Conducted resume reviews and mock interviews to help students shine in the hiring process.",
+      "Assisted students in preparing for technical interviews with top tech companies, focusing on algorithm problems and test case identification."]
     }
   ],
   "education": [
