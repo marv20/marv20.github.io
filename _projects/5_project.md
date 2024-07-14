@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Current Credit Cards
+title: test
 description: 
 img: assets/img/1.jpg
 importance: 3
@@ -8,18 +8,6 @@ category: fun
 ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Cap1-Venture-X.webp" title="example image" class="img-fluid rounded z-depth-1" %}
-        Venture X catch all with 2x points back on everything, also for travel when it makes sense 5x Flights, 10x hotel and rental car.
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/discover.webp" title="example image" class="img-fluid rounded z-depth-1" %}
-        Discover 5x rotating used most for restaruant, gas station, and grocery store when those categories rotate in.
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/Citi.webp" title="example image" class="img-fluid rounded z-depth-1" %}
-        Citi 5x custom cash used exclusivly for restuarants once 500 threashold is reached I do not use the card until the next billing statement.
-    </div>
 </div>
 <div class="caption">
 </div>
