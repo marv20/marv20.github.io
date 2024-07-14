@@ -117,12 +117,12 @@
   "references": [],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+      "name": "Java GUI Calculator High School Project",
+      "summary": "",
+      "highlights": [],
       "startDate": "2018-01-01",
       "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "url": "https://github.com/marv20/HCPSSGPA"
     }
   ]
 }
