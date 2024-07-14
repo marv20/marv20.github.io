@@ -4,7 +4,7 @@ title: Birds
 description: Northeastern Maryland, Virgnia, and Delware or DelMarva birds
 img: assets/img/card.jpg
 importance: 1
-category: work
+category: fun
 related_publications: false
 ---
 
