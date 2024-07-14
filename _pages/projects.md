@@ -5,7 +5,7 @@ permalink: /photos/
 description:
 nav: true
 nav_order: 2
-display_categories: [fun]
+display_categories: [Portfolio]
 horizontal: false
 ---
 
