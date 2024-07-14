@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Oahu 2024
+description: Time spent on Oahu
+img: assets/img/oahu.jpg
+redirect: https://www.flickr.com/photos/199613748@N02/shares/Kv26WqT3n8
 importance: 3
 category: fun
 ---
