@@ -8,7 +8,7 @@ middle_name:
 last_name:  Mav
 email: mmavroma@terpmail.umd.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Always in search of a perfect sunrise
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 keywords: jekyll, jekyll-theme, photo-website, portfolio-website # add your own keywords or leave empty
