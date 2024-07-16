@@ -44,6 +44,11 @@ Earth Treks Columbia 5.12b, this was before they made the switch to +/- system a
 
 V2 the Fin NW Branch
 - Got this one in a couple burns not much experience with outdoor bouldering
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/fin.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
 - https://www.mountainproject.com/route/112190126/the-fin
 
 {% endtab %}
