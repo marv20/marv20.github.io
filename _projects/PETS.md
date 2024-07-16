@@ -30,6 +30,3 @@ category: Portfolio
         {% include figure.liquid path="assets/img/doggo2.jpg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
