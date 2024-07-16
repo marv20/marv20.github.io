@@ -10,9 +10,9 @@ tabs: true
 
 ## Rope Climbs sorted by discipline
 
-{% tabs something-else %}
+{% tabs something-else1 %}
 
-{% tab something-else lead %}
+{% tab something-else1 lead %}
 
 The Truth at Fricton Wall Patapsco MD, rehearsed on solo top role many times.
 
@@ -20,7 +20,7 @@ Sent on lead while the train was passing by makes for an epic flow state
 
 {% endtab %}
 
-{% tab something-else top rope %}
+{% tab something-else1 top rope %}
 
 Entropy Great Falls
 - Projected this one over 6 months, hardest move is the transition in the middle of the climb
@@ -28,7 +28,7 @@ Entropy Great Falls
 
 {% endtab %}
 
-{% tab something-else gym %}
+{% tab something-else1 gym %}
 
 Earth Treks Columbia 5.12b, this was before they made the switch to +/- system and changed the named to Movement
 
@@ -38,9 +38,9 @@ Earth Treks Columbia 5.12b, this was before they made the switch to +/- system a
 
 ## Boulders sorted by discipline
 
-{% tabs something-else %}
+{% tabs something-else2 %}
 
-{% tab something-else outside %}
+{% tab something-else2 outside %}
 
 V2 the Fin NW Branch
 - Got this one in a couple burns not much experience with outdoor bouldering
@@ -48,7 +48,7 @@ V2 the Fin NW Branch
 
 {% endtab %}
 
-{% tab something-else gym %}
+{% tab something-else2 gym %}
 
 Earth Treks Columbia V6, crippy climb on the slab wall, tested positive for COVID a few days later which killed the stoke
 
