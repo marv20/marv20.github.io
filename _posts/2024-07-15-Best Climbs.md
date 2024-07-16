@@ -4,7 +4,7 @@ title: Best Climbs Ever
 date: 2024-07-15 10:00:00
 description: Best Climbs completed by me
 tags: climbing
-categories: sample-posts
+categories: climbing
 tabs: true
 ---
 
@@ -15,8 +15,8 @@ tabs: true
 {% tab something-else1 lead %}
 
 The Truth at Fricton Wall Patapsco MD, rehearsed on solo top role many times.
-
-Sent on lead while the train was passing by makes for an epic flow state
+- Sent on lead while the train was passing by makes for an epic flow state
+- https://www.mountainproject.com/route/106499482/the-truth
 
 {% endtab %}
 
@@ -24,6 +24,12 @@ Sent on lead while the train was passing by makes for an epic flow state
 
 Entropy Great Falls
 - Projected this one over 6 months, hardest move is the transition in the middle of the climb
+- Not a video of me, but here is an old timer cruising the climb
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid path="assets/video/old.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
+    </div>
+</div>
 - https://www.mountainproject.com/route/109570255/entropy
 
 {% endtab %}
