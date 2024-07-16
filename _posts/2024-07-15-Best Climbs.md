@@ -14,9 +14,8 @@ tabs: true
 
 {% tab something-else1 lead %}
 
-The Truth at Fricton Wall Patapsco MD, rehearsed on solo top role many times.
+<a href="https://www.mountainproject.com/route/106499482/the-truth">The Truth at Fricton Wall Patapsco MD</a>, rehearsed on solo top role many times.
 - Sent on lead while the train was passing by makes for an epic flow state
-- https://www.mountainproject.com/route/106499482/the-truth
 
 {% endtab %}
 
