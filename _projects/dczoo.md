@@ -5,7 +5,7 @@ title: DC Zoo 2024
 description: Pandas MIA
 img: assets/img/ZOO.jpg
 redirect: https://www.flickr.com/photos/199613748@N02/shares/rGLT91Lgxb
-importance: 3
+importance: 6
 category: Portfolio
 ---
 
