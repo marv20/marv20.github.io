@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://marv20.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://marv20.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-07-17T03:07:14+00:00</updated><id>https://marv20.github.io/feed.xml</id><title type="html">MavPhoto</title><subtitle>Always in search of a perfect sunrise </subtitle><entry><title type="html">Mav’s Travel</title><link href="https://marv20.github.io/blog/2024/Travel/" rel="alternate" type="text/html" title="Mav’s Travel"/><published>2024-07-16T17:57:00+00:00</published><updated>2024-07-16T17:57:00+00:00</updated><id>https://marv20.github.io/blog/2024/Travel</id><content type="html" xml:base="https://marv20.github.io/blog/2024/Travel/"><![CDATA[<p>This is an example post with some <a href="https://geojson.org/">geojson</a> code. The support is provided thanks to <a href="https://leafletjs.com/">Leaflet</a>. To create your own visualization, go to <a href="https://geojson.io/">geojson.io</a>.</p> <pre><code class="language-geojson">{
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.3">Jekyll</generator><link href="https://marv20.github.io/feed.xml" rel="self" type="application/atom+xml"/><link href="https://marv20.github.io/" rel="alternate" type="text/html" hreflang="en"/><updated>2024-07-17T03:17:48+00:00</updated><id>https://marv20.github.io/feed.xml</id><title type="html">MavPhoto</title><subtitle>Always in search of a perfect sunrise </subtitle><entry><title type="html">Mav’s Travel</title><link href="https://marv20.github.io/blog/2024/Travel/" rel="alternate" type="text/html" title="Mav’s Travel"/><published>2024-07-16T17:57:00+00:00</published><updated>2024-07-16T17:57:00+00:00</updated><id>https://marv20.github.io/blog/2024/Travel</id><content type="html" xml:base="https://marv20.github.io/blog/2024/Travel/"><![CDATA[<p>This is an example post with some <a href="https://geojson.org/">geojson</a> code. The support is provided thanks to <a href="https://leafletjs.com/">Leaflet</a>. To create your own visualization, go to <a href="https://geojson.io/">geojson.io</a>.</p> <pre><code class="language-geojson">{
   "type": "FeatureCollection",
   "features": [
     {
@@ -377,7 +377,188 @@
     }
   ]
 }
-</code></pre>]]></content><author><name></name></author><category term="Travel"/><category term="Travel"/><summary type="html"><![CDATA[Places travel to date July 2024]]></summary></entry><entry><title type="html">Best Climbs Ever</title><link href="https://marv20.github.io/blog/2024/Best-Climbs/" rel="alternate" type="text/html" title="Best Climbs Ever"/><published>2024-07-15T10:00:00+00:00</published><updated>2024-07-15T10:00:00+00:00</updated><id>https://marv20.github.io/blog/2024/Best%20Climbs</id><content type="html" xml:base="https://marv20.github.io/blog/2024/Best-Climbs/"><![CDATA[<h2 id="rope-climbs-sorted-by-discipline">Rope Climbs sorted by discipline</h2> <ul id="something-else1" class="tab" data-tab="ab600361-49ae-49c7-a9fc-52f1f6ccbd42" data-name="something-else1"> <li class="active" id="something-else1-lead"> <a href="#">lead </a> </li> <li id="something-else1-top-rope"> <a href="#">top rope </a> </li> <li id="something-else1-gym"> <a href="#">gym </a> </li> </ul> <ul class="tab-content" id="ab600361-49ae-49c7-a9fc-52f1f6ccbd42" data-name="something-else1"> <li class="active"> <p><a href="https://www.mountainproject.com/route/106499482/the-truth">The Truth at Fricton Wall Patapsco MD</a>, rehearsed on solo top role many times.</p> <ul> <li>Sent on lead while the train was passing by makes for an epic flow state</li> </ul> </li> <li> <p><a href="https://www.mountainproject.com/route/109570255/entropy">Entropy Great Falls</a></p> <ul> <li>Projected this one over 6 months, hardest move is the transition in the middle of the climb</li> <li>Not a video of me, but here is an old timer cruising the climb</li> </ul> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <video src="/assets/video/old.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls=""/> </figure> </div> </div> </li> <li> <p>Earth Treks Columbia 5.12b, this was before they made the switch to +/- system and changed the named to Movement</p> </li> </ul> <h2 id="boulders-sorted-by-discipline">Boulders sorted by discipline</h2> <ul id="something-else2" class="tab" data-tab="da04cd16-11a1-4dd6-824f-66fbeeec6ea2" data-name="something-else2"> <li class="active" id="something-else2-outside"> <a href="#">outside </a> </li> <li id="something-else2-gym"> <a href="#">gym </a> </li> </ul> <ul class="tab-content" id="da04cd16-11a1-4dd6-824f-66fbeeec6ea2" data-name="something-else2"> <li class="active"> <p><a href="https://www.mountainproject.com/route/112190126/the-fin">V2 the Fin NW Branch</a></p> <ul> <li>Got this one in a couple burns not much experience with outdoor bouldering</li> </ul> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <video src="/assets/video/fin.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls=""/> </figure> </div> </div> </li> <li> <p>Earth Treks Columbia V6, crippy climb on the slab wall, tested positive for COVID a few days later which killed the stoke</p> <p>Movement Crystal City V6, Gym style climb with large starting role and jumpy middle section into an easy finish</p> </li> </ul>]]></content><author><name></name></author><category term="climbing"/><category term="climbing"/><summary type="html"><![CDATA[Best Climbs completed by me]]></summary></entry><entry><title type="html">a post with tabs</title><link href="https://marv20.github.io/blog/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs"/><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://marv20.github.io/blog/2024/tabs</id><content type="html" xml:base="https://marv20.github.io/blog/2024/tabs/"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p> <h2 id="first-tabs">First tabs</h2> <p>To add tabs, use the following syntax:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{%</span><span class="w"> </span><span class="nt">tabs</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="cp">%}</span>
+</code></pre>]]></content><author><name></name></author><category term="Travel"/><category term="Travel"/><summary type="html"><![CDATA[Places travel to date July 2024]]></summary></entry><entry><title type="html">Best Climbs Ever</title><link href="https://marv20.github.io/blog/2024/Best-Climbs/" rel="alternate" type="text/html" title="Best Climbs Ever"/><published>2024-07-15T10:00:00+00:00</published><updated>2024-07-15T10:00:00+00:00</updated><id>https://marv20.github.io/blog/2024/Best%20Climbs</id><content type="html" xml:base="https://marv20.github.io/blog/2024/Best-Climbs/"><![CDATA[<h2 id="rope-climbs-sorted-by-discipline">Rope Climbs sorted by discipline</h2> <ul id="something-else1" class="tab" data-tab="9e4c82a4-7a5a-4db1-8172-e9fe62731aab" data-name="something-else1"> <li class="active" id="something-else1-lead"> <a href="#">lead </a> </li> <li id="something-else1-top-rope"> <a href="#">top rope </a> </li> <li id="something-else1-gym"> <a href="#">gym </a> </li> </ul> <ul class="tab-content" id="9e4c82a4-7a5a-4db1-8172-e9fe62731aab" data-name="something-else1"> <li class="active"> <p><a href="https://www.mountainproject.com/route/106499482/the-truth">The Truth at Fricton Wall Patapsco MD</a>, rehearsed on solo top role many times.</p> <ul> <li>Sent on lead while the train was passing by makes for an epic flow state</li> </ul> </li> <li> <p><a href="https://www.mountainproject.com/route/109570255/entropy">Entropy Great Falls</a></p> <ul> <li>Projected this one over 6 months, hardest move is the transition in the middle of the climb</li> <li>Not a video of me, but here is an old timer cruising the climb</li> </ul> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <video src="/assets/video/old.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls=""/> </figure> </div> </div> </li> <li> <p>Earth Treks Columbia 5.12b, this was before they made the switch to +/- system and changed the named to Movement</p> </li> </ul> <h2 id="boulders-sorted-by-discipline">Boulders sorted by discipline</h2> <ul id="something-else2" class="tab" data-tab="90122cc5-7d14-4ba4-8f5d-0c7717a7081f" data-name="something-else2"> <li class="active" id="something-else2-outside"> <a href="#">outside </a> </li> <li id="something-else2-gym"> <a href="#">gym </a> </li> </ul> <ul class="tab-content" id="90122cc5-7d14-4ba4-8f5d-0c7717a7081f" data-name="something-else2"> <li class="active"> <p><a href="https://www.mountainproject.com/route/112190126/the-fin">V2 the Fin NW Branch</a></p> <ul> <li>Got this one in a couple burns not much experience with outdoor bouldering</li> </ul> <div class="row mt-3"> <div class="col-sm mt-3 mt-md-0"> <figure> <video src="/assets/video/fin.mp4" class="img-fluid rounded z-depth-1" width="auto" height="auto" autoplay="" controls=""/> </figure> </div> </div> </li> <li> <p>Earth Treks Columbia V6, crippy climb on the slab wall, tested positive for COVID a few days later which killed the stoke</p> <p>Movement Crystal City V6, Gym style climb with large starting role and jumpy middle section into an easy finish</p> </li> </ul> <p>Outdoor climbing spots visited</p> <pre><code class="language-geojson">{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -79.37657497177172,
+          38.83619040468571
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -78.33139810878231,
+          38.92491066454326
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -77.00488019349135,
+          39.03020505340007
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -77.39461909067343,
+          39.262495878717516
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -75.822940090073,
+          40.24977198704258
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -84.89148234796897,
+          36.08657186712291
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -85.81130453291141,
+          35.16352655507656
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -82.27594078564334,
+          35.89415019072672
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -82.79265517416579,
+          35.301752730621146
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -83.14395455952449,
+          35.08046074187959
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -76.76377321542944,
+          39.25012524597966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -73.97294193610925,
+          40.77161069910335
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -76.37326510680309,
+          39.91627389521008
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -76.41798941331967,
+          39.638755003891106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -77.1842834262668,
+          38.97206820146934
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -77.24985360417826,
+          38.993027949415335
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
+</code></pre>]]></content><author><name></name></author><category term="climbing"/><category term="climbing"/><summary type="html"><![CDATA[Best Climbs completed by me]]></summary></entry><entry><title type="html">a post with tabs</title><link href="https://marv20.github.io/blog/2024/tabs/" rel="alternate" type="text/html" title="a post with tabs"/><published>2024-05-01T00:32:13+00:00</published><updated>2024-05-01T00:32:13+00:00</updated><id>https://marv20.github.io/blog/2024/tabs</id><content type="html" xml:base="https://marv20.github.io/blog/2024/tabs/"><![CDATA[<p>This is how a post with <a href="https://github.com/Ovski4/jekyll-tabs">tabs</a> looks like. Note that the tabs could be used for different purposes, not only for code.</p> <h2 id="first-tabs">First tabs</h2> <p>To add tabs, use the following syntax:</p> <div class="language-liquid highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="cp">{%</span><span class="w"> </span><span class="nt">tabs</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="cp">%}</span>
 
 <span class="cp">{%</span><span class="w"> </span><span class="nt">tab</span><span class="w"> </span><span class="nv">group-name</span><span class="w"> </span><span class="nv">tab-name-1</span><span class="w"> </span><span class="cp">%}</span>
 
@@ -392,16 +573,16 @@ Content 2
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endtab</span><span class="w"> </span><span class="cp">%}</span>
 
 <span class="cp">{%</span><span class="w"> </span><span class="nt">endtabs</span><span class="w"> </span><span class="cp">%}</span>
-</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="779f02d5-6134-41fa-b594-de9035120876" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="779f02d5-6134-41fa-b594-de9035120876" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
+</code></pre></div></div> <p>With this you can generate visualizations like:</p> <ul id="log" class="tab" data-tab="734b9a31-b37c-4139-bf17-11db8e4fd43b" data-name="log"> <li class="active" id="log-php"> <a href="#">php </a> </li> <li id="log-js"> <a href="#">js </a> </li> <li id="log-ruby"> <a href="#">ruby </a> </li> </ul> <ul class="tab-content" id="734b9a31-b37c-4139-bf17-11db8e4fd43b" data-name="log"> <li class="active"> <div class="language-php highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">var_dump</span><span class="p">(</span><span class="s1">'hello'</span><span class="p">);</span>
 </code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">console</span><span class="p">.</span><span class="nf">log</span><span class="p">(</span><span class="dl">"</span><span class="s2">hello</span><span class="dl">"</span><span class="p">);</span>
 </code></pre></div></div> </li> <li> <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nx">pputs</span> <span class="dl">'</span><span class="s1">hello</span><span class="dl">'</span>
-</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="51544503-ecc8-4f4d-bdd6-0b03bcd14ab2" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="51544503-ecc8-4f4d-bdd6-0b03bcd14ab2" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
+</code></pre></div></div> </li> </ul> <h2 id="another-example">Another example</h2> <ul id="data-struct" class="tab" data-tab="677522e4-f94e-4ed1-8cbb-2684bb5f933f" data-name="data-struct"> <li class="active" id="data-struct-yaml"> <a href="#">yaml </a> </li> <li id="data-struct-json"> <a href="#">json </a> </li> </ul> <ul class="tab-content" id="677522e4-f94e-4ed1-8cbb-2684bb5f933f" data-name="data-struct"> <li class="active"> <div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">hello</span><span class="pi">:</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">whatsup"</span>
   <span class="pi">-</span> <span class="s2">"</span><span class="s">hi"</span>
 </code></pre></div></div> </li> <li> <div class="language-json highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">{</span><span class="w">
   </span><span class="nl">"hello"</span><span class="p">:</span><span class="w"> </span><span class="p">[</span><span class="s2">"whatsup"</span><span class="p">,</span><span class="w"> </span><span class="s2">"hi"</span><span class="p">]</span><span class="w">
 </span><span class="p">}</span><span class="w">
-</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="785ec2bc-5e4f-40b9-9690-1e0803f96fbf" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="785ec2bc-5e4f-40b9-9690-1e0803f96fbf" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://marv20.github.io/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://marv20.github.io/blog/2024/typograms</id><content type="html" xml:base="https://marv20.github.io/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
+</span></code></pre></div></div> </li> </ul> <h2 id="tabs-for-something-else">Tabs for something else</h2> <ul id="something-else" class="tab" data-tab="b89f8264-1fd6-4555-99b6-ca1e564c321d" data-name="something-else"> <li class="active" id="something-else-text"> <a href="#">text </a> </li> <li id="something-else-quote"> <a href="#">quote </a> </li> <li id="something-else-list"> <a href="#">list </a> </li> </ul> <ul class="tab-content" id="b89f8264-1fd6-4555-99b6-ca1e564c321d" data-name="something-else"> <li class="active"> <p>Regular text</p> </li> <li> <blockquote> <p>A quote</p> </blockquote> </li> <li> <p>Hipster list</p> <ul> <li>brunch</li> <li>fixie</li> <li>raybans</li> <li>messenger bag</li> </ul> </li> </ul>]]></content><author><name></name></author><category term="sample-posts"/><category term="formatting"/><category term="code"/><summary type="html"><![CDATA[this is what included tabs in a post could look like]]></summary></entry><entry><title type="html">a post with typograms</title><link href="https://marv20.github.io/blog/2024/typograms/" rel="alternate" type="text/html" title="a post with typograms"/><published>2024-04-29T23:36:10+00:00</published><updated>2024-04-29T23:36:10+00:00</updated><id>https://marv20.github.io/blog/2024/typograms</id><content type="html" xml:base="https://marv20.github.io/blog/2024/typograms/"><![CDATA[<p>This is an example post with some <a href="https://github.com/google/typograms/">typograms</a> code.</p> <div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="p">```</span><span class="nl">typograms
 </span><span class="sb">+----+
 |    |---&gt; My first diagram!
 +----+</span>
