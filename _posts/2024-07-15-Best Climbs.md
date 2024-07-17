@@ -29,7 +29,6 @@ tabs: true
         {% include video.liquid path="assets/video/old.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
-- https://www.mountainproject.com/route/109570255/entropy
 
 {% endtab %}
 
