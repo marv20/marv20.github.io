@@ -6,6 +6,7 @@ description: Best Climbs completed by me
 tags: climbing
 categories: climbing
 tabs: true
+map: true
 ---
 
 ## Rope Climbs sorted by discipline
