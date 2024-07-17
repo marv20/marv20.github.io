@@ -21,7 +21,7 @@ tabs: true
 
 {% tab something-else1 top rope %}
 
-Entropy Great Falls
+<a href="https://www.mountainproject.com/route/109570255/entropy">Entropy Great Falls</a>
 - Projected this one over 6 months, hardest move is the transition in the middle of the climb
 - Not a video of me, but here is an old timer cruising the climb
 <div class="row mt-3">
@@ -46,15 +46,13 @@ Earth Treks Columbia 5.12b, this was before they made the switch to +/- system a
 {% tabs something-else2 %}
 
 {% tab something-else2 outside %}
-
-V2 the Fin NW Branch
+<a href="https://www.mountainproject.com/route/112190126/the-fin">V2 the Fin NW Branch</a>
 - Got this one in a couple burns not much experience with outdoor bouldering
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid path="assets/video/fin.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
     </div>
 </div>
-- https://www.mountainproject.com/route/112190126/the-fin
 
 {% endtab %}
 
