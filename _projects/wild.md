@@ -3,7 +3,7 @@ layout: page
 title: Wildlife
 description: Northeastern Maryland, Virgnia, and Delware or DelMarva wildlife
 img: assets/img/larpa.jpg 
-importance: 8
+importance: 3
 category: Portfolio
 giscus_comments: FALSE
 ---

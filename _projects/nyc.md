@@ -4,7 +4,7 @@ title: NYC 2024
 description: Happy New Year
 img: assets/img/nyc.jpg
 redirect: https://www.flickr.com/photos/199613748@N02/shares/G1Qo40SK8B
-importance: 3
+importance: 7
 category: Portfolio
 ---
 

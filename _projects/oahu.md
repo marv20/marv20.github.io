@@ -4,7 +4,7 @@ title: Oahu 2024
 description: Time spent on Oahu
 img: assets/img/oahu.jpg
 redirect: https://www.flickr.com/photos/199613748@N02/shares/Kv26WqT3n8
-importance: 3
+importance: 6
 category: Portfolio
 ---
 
