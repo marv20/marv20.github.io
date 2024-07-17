@@ -24,12 +24,6 @@ map: true
 
 <a href="https://www.mountainproject.com/route/109570255/entropy">Entropy Great Falls</a>
 - Projected this one over 6 months, hardest move is the transition in the middle of the climb
-- Not a video of me, but here is an old timer cruising the climb
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include video.liquid path="assets/video/old.mp4" class="img-fluid rounded z-depth-1" controls=true autoplay=true %}
-    </div>
-</div>
 
 {% endtab %}
 
