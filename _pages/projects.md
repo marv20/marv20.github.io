@@ -1,7 +1,7 @@
 ---
 layout: page
 title: photos
-permalink: /photos/
+permalink: /
 description:
 nav: true
 nav_order: 2

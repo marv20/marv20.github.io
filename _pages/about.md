@@ -1,7 +1,8 @@
 ---
 layout: about
 title: about
-permalink: /
+permalink: /abouts
+nav: true
 subtitle: Always in search of picture-perfect moments
 
 profile:
