@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photos
+title: MavPhoto
 permalink: /
 description:
 nav: false
