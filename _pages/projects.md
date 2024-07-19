@@ -7,6 +7,7 @@ nav: false
 nav_order: 2
 display_categories: [Portfolio]
 horizontal: false
+social: true # includes social icons at the bottom of the page
 ---
 
 <!-- pages/projects.md -->
