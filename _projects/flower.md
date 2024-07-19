@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Flowers
-description: with background image
+description:
 img: assets/img/t1.jpg
 importance: 4
 category: Portfolio
