@@ -3,7 +3,7 @@ layout: page
 title: Pets
 description: 
 img: assets/img/beanny.jpg
-importance: 2
+importance: 3
 category: Portfolio
 ---
 
