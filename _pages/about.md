@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /abouts
-nav: true
+nav: false
 subtitle: Always in search of picture-perfect moments
 
 profile:

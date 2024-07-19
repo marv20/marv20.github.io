@@ -3,7 +3,7 @@ layout: page
 title: photos
 permalink: /
 description:
-nav: true
+nav: false
 nav_order: 2
 display_categories: [Portfolio]
 horizontal: false
