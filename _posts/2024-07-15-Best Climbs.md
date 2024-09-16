@@ -262,6 +262,17 @@ Movement Crystal City V6, Gym style climb with large starting role and jumpy mid
         ],
         "type": "Point"
       }
+    },
+        {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          -72.830372086066,
+          41.70024132986592
+        ],
+        "type": "Point"
+      }
     }
   ]
 }
