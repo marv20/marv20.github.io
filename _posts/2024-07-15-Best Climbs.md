@@ -61,7 +61,7 @@ Movement Crystal City V6, Gym style climb with large starting role and jumpy mid
 {% endtabs %}
 
 <h1 style="text-align: center;">Outdoor climbing spots visited</h1>
-```geojson
+<!-- ```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -276,4 +276,4 @@ Movement Crystal City V6, Gym style climb with large starting role and jumpy mid
     }
   ]
 }
-```
+``` -->
